@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/) 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="NathanVRZ">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/)
+
+Ola, meu nome é Natã Lino sou estudante e estagiario na <strong> Faculdade BandTec</strong>
 
 🏫 Estudante de Analise e desenvolvimento de sistemas(ADS): 2° Semestre
 
