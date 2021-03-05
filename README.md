@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/)
 
-Ola, meu nome é Natã Lino sou estudante e estagiário na <strong> Faculdade BandTec</strong>
+Ola, meu nome é Natã Lino sou estudante e estagiário na <strong> Stefanini</strong>
 
-🏫 Estudante de Analise e desenvolvimento de sistemas(ADS): 2° Semestre
+🏫 Estudante de Analise e desenvolvimento de sistemas(ADS): 3° Semestre
 
-📚 Estagiando: Faculdade Bandtec
+📚 Estagiando: Stefanini Group
 
-💻 Estudando: <strong> Java, NodeJS, CSS3 </strong>
+💻 Estudando: <strong> WMS, TMS, PYTHON </strong>
+
+🔧Skills: <strong>ReactJs, javaScript, CSS3, AWS, Linux</strong>
+
 
