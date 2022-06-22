@@ -23,7 +23,7 @@ Ola, meu nome é Natã Lino sou estudante e estagiário na <strong> Stefanini</s
 
 🏫 Estudante de Analise e desenvolvimento de sistemas(ADS): 3° Semestre
 
-📚 Estagiando: Stefanini Group
+📚 Analista de suporte: Stefanini Group
 
 💻 Estudando: <strong> WMS, TMS, PYTHON </strong>
 
