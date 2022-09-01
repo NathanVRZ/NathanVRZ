@@ -25,8 +25,8 @@ Ola, meu nome é Natã Lino sou estudante e estagiário na <strong> Stefanini</s
 
 📚 Analista de suporte: Stefanini Group
 
-💻 Estudando: <strong> WMS, TMS, PYTHON </strong>
+💻 Estudando: <strong> TMS, PYTHON </strong>
 
-🔧Skills: <strong>ReactJs, javaScript, CSS3, AWS, Linux</strong>
+🔧Skills: <strong>ReactJs, javaScript, CSS3, AWS, Linux, WMS, Azure, SQL, Spring Boot, Kotlin, Java</strong>
 
 
