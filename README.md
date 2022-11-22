@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/)
 
-Ola, meu nome é Natã Lino sou estudante e estagiário na <strong> Stefanini</strong>
+Ola, meu nome é Natã Lino sou Analista de sistemas na <strong> Stefanini</strong>
 
-🏫 Estudante de Analise e desenvolvimento de sistemas(ADS): 3° Semestre
+🏫 Formado em Analise e desenvolvimento de sistemas(ADS)
 
-📚 Analista de suporte: Stefanini Group
+📚 Analista de sistemas: Stefanini Group
 
 💻 Estudando: <strong> TMS, PYTHON </strong>
 
