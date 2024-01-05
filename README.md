@@ -23,9 +23,9 @@ Ola, meu nome é Natã Lino sou Analista de sistemas na <strong> Stefanini</stro
 
 🏫 Formado em Analise e desenvolvimento de sistemas(ADS)
 
-📚 Analista de sistemas: Stefanini Group
+📚 Analista de sistemas: Open To Work
 
-💻 Estudando: <strong> TMS, PYTHON </strong>
+💻 Estudando: <strong> GoLang </strong>
 
 🔧Skills: <strong>ReactJs, javaScript, CSS3, AWS, Linux, WMS, Azure, SQL, Spring Boot, Kotlin, Java</strong>
 
