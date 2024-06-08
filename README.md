@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/)
 
-Ola, meu nome é Natã Lino sou Analista de sistemas na e sejam bem vindos aos meus projetos
+Ola, meu nome é Natã Lino sou Analista de sistemas e sejam bem vindos aos meus projetos
 
 🏫 Formado em Analise e desenvolvimento de sistemas(ADS)
 
-📚 Analista de sistemas: Open To Work
+📚 Analista de sistemas: Plugify
 
 💻 Estudando: <strong> GoLang </strong>
 
