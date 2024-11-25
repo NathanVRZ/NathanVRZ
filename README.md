@@ -23,7 +23,7 @@ Ola, meu nome é Natã Lino sou Analista de sistemas e sejam bem vindos aos meus
 
 🏫 Formado em Analise e desenvolvimento de sistemas(ADS)
 
-📚 Analista de sistemas: Plugify
+📚 Analista de sistemas WMS: Freelancer  
 
 💻 Estudando: <strong> GoLang </strong>
 
