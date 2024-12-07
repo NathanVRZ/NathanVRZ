@@ -1,32 +1,33 @@
+# 👋 Hi, I'm Nathan Lino!
 
+I'm a passionate Full Stack Developer with experience in a variety of technologies and frameworks. Always eager to learn and tackle new challenges.
 
-<!--
-**NathanVRZ/NathanVRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="NathanVRZ">
+- 🎨 Frontend: React, Tailwind CSS  
+- 💻 Backend: Java, JavaScript, Node.js, Lua, Golang (currently learning 🚀)  
+- 🛠️ Databases: Oracle  
+- 📦 WMS: Solid experience in WMS solutions  
+- 🌐 APIs: Development and integration of REST APIs  
+- 💡 Always learning: Currently diving into **Golang**  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Natã%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natã-lino-b630b21a4/)](https://www.linkedin.com/in/natã-lino-b630b21a4/)
+---
 
-Ola, meu nome é Natã Lino sou Analista de sistemas e sejam bem vindos aos meus projetos
+<div align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFyYjlnZDRhY3JiOWF4cGNsdDZpd2hlbjF5OGp4MmgwanB3Mjl0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBLq0QJdxy57CV2/giphy.webp" alt="Coding Gif" width="250" align="right" />
+    <p>💻 <strong>Turning ideas into reality through code!</strong></p>
+</div>
 
-🏫 Formado em Analise e desenvolvimento de sistemas(ADS)
+---
 
-📚 Analista de sistemas WMS: Freelancer  
+## 🌐 My Social Media
 
-💻 Estudando: <strong> GoLang </strong>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nathanvrz/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natã-lino-b630b21a4/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.linkedin.com/in/natã-lino-b630b21a4/)  
 
-🔧Skills: <strong>ReactJs, javaScript, CSS3, AWS, Linux, WMS, Azure, SQL, Spring Boot, Kotlin, Java</strong>
+---
 
-
+🌟 **“Every line of code is a new possibility.”**
